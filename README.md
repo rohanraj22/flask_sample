@@ -1,2 +1,3 @@
-# flask_sample
-Repo for uploading flask sample
+# Python Repo
+
+This a repository for uploading sample python programs.
